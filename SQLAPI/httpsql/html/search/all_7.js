@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['jsonmsg_10',['JsonMsg',['../classhttpsql_1_1_form1_1_1_json_msg.html',1,'httpsql::Form1']]]
+];
